@@ -1,0 +1,18 @@
+{
+  "name": "Unity xNFT Test",
+  "version": "0.0.1",
+  "description": "Unity Wallet Test",
+  "website": "",
+  "kind": "app",
+  "icon": {
+    "md": "./assets/icon.png"
+  },
+  "screenshots": [
+    "./assets/screenShot.png"
+  ],
+  "entrypoints": {
+    "default": {
+      "web": "./web-build/index.html"
+    }
+  }
+}
