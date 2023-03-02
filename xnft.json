@@ -12,7 +12,7 @@
   ],
   "entrypoints": {
     "default": {
-      "web": "./web-build/index.html"
+      "web": "./index.html"
     }
   }
 }
